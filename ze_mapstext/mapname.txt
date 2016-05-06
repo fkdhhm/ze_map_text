@@ -598,7 +598,7 @@
 	}
 	"ze_ffxii_feywood_b3_1_e2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想12：幻妖之森"
 	}
 	"ze_sunlight_v2_0_p8"
 	{
